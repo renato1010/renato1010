@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web3**
 
-- 📫 How to reach me **renato@renatoperez.dev**
+- 📫 How to get in touch with me **renato@renatoperez.dev**
 - <a href="https://www.meetup.com/js-guatemala-group/" target="_blank" alt="javascript meetup guatemala">💻️ Check Guatemala's **JavaScript Meetup**</a>
 
 <h3 align="left">Connect with me:</h3>
