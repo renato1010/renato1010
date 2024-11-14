@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renato1010&label=Profile%20views&color=0e75b6&style=flat" alt="renato1010" /> </p>
 
-- 🌱 I’m currently learning **LangChain/LangGraph** for building LLM powered web apps🌟
+- 🌱 Right now, I’m diving into LangChain and LangGraph to level up my skills for building LLM-powered web apps! 🌟
 
 - 📫 How to get in touch with me **renato@renatoperez.dev**
 
