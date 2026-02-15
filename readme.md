@@ -1,7 +1,6 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renato1010&theme=tokyonight)](https://github.com/renato1010/renato1010) -->
 
 <h1 align="center">Hi 👋, I'm Renato Perez</h1>
-<h3 align="center"> Discovering fascinating things to build/learn💻️, lil bit farming🍓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renato1010&label=Profile%20views&color=0e75b6&style=flat" alt="renato1010" /> </p>
 
