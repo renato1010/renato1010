@@ -28,6 +28,4 @@ I specialize in building **Full Stack Web Applications enhanced with LLM capabil
 ---
 <br>
 
-<img src="./images/top-languages.svg" alt="Top Languages" />
-
-
+<img src="https://losormorpino-public-media.s3.us-east-2.amazonaws.com/top-languages.svg" width="450" alt="Top Languages">
