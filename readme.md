@@ -25,9 +25,9 @@ I specialize in building **Full Stack Web Applications enhanced with LLM capabil
 | **💻 Full Stack** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![React](https://img.shields.io/badge/React-20232A?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square) |
 | **☁️ DevOps & QA** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square) |
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renato1010&show_icons=true&locale=en&layout=compact" alt="renato1010" /></p> -->
+---
+<br>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=renato1010&show_icons=true&locale=en" alt="renato1010" /></p> -->
+<img src="./images/top-languages.svg" alt="Top Languages" />
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renato1010&" alt="renato1010" /></p> -->
 
